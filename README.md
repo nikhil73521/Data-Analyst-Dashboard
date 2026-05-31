@@ -47,7 +47,8 @@ The dataset contains:
 - Product Categories
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+[Dashboard Screenshot] https://github.com/nikhil73521/Data-Analyst-Dashboard/blob/main/Screenshot%20(6).png
+[Dashboard Screenshot] https://github.com/nikhil73521/Data-Analyst-Dashboard/blob/main/Screenshot%20(7).png
 
 > Upload a screenshot of your dashboard and save it as `dashboard.png` in the repository.
 
