@@ -79,5 +79,7 @@ The dashboard helps businesses understand customer purchasing patterns, identify
 Aspiring Data Analyst | Excel Dashboard Developer | Learning SQL & Python
 
 ### Connect With Me
+- Mobile: 7352148136
+- Email: kumarnikhil735214@gmail.com
 - GitHub: https://github.com/nikhil73521
 - LinkedIn: https://www.linkedin.com/in/nikhil-kumar111/?skipRedirect=true
