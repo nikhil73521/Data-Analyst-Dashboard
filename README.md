@@ -62,10 +62,20 @@ The dashboard helps businesses understand customer purchasing patterns, identify
 - Excel Reporting
 - Data Visualization
 
+**Sample Insights**
+- Women are more likely to buy compared to men (~65%)
+- Maharashtra, Karnataka and uttar pradesh are the top 3 states (~35%)
+- Adult age group (30-40 yrs) is max contributing (~50%)
+- Amazon,Flipkart and Myntra channels are max contributing (~ 80%)
+
+**Final Conclusion to improve varinda store sales**
+ - Target women customers of age group (30-49 yrs) living in Maharashtra,Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon,Flipkart and Myntra.
+
+
 ## Author
 **Nikhil Kumar**
 
-BCA Graduate | Excel | SQL | Python | Data Analysis
+Aspiring Data Analyst | Excel Dashboard Developer | Learning SQL & Python
 
 ### Connect With Me
 - GitHub: https://github.com/nikhil73521
